@@ -1,4 +1,4 @@
-##From Scratch Java Database Implementation
+#From Scratch Java Database Implementation
 
 By Tyler Lewis
    tylewis@chapman.edu
@@ -12,8 +12,8 @@ Worked with Mary Shkouratoff from Chapman Univ. for portion of project. Specific
 
 Navigate to folder containing the files in this repository and run the following command:
 
-######javac AffiliateDriver.java Affiliate.java Faculty.java AssistantProfessor.java AssociateProfessor.java FullProfessor.java Student.java Graduate.java Undergraduate.java Staff.java PartTime.java FullTime.java
+###### javac AffiliateDriver.java Affiliate.java Faculty.java AssistantProfessor.java AssociateProfessor.java FullProfessor.java Student.java Graduate.java Undergraduate.java Staff.java PartTime.java FullTime.java
 
 and then...
 
-######java AffiliateDriver
+###### java AffiliateDriver
