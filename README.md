@@ -6,7 +6,9 @@ By Tyler Lewis
    2020
 
 
-Project to design and implement my own version of a databse utilizing a Java HashMap. Example dataset used is that of Faculty and Student objects which can be read/written from a CSV file and created/removed using the terminal application.
+Project to design and implement my own version of a databse utilizing a Java HashMap. Example dataset used is that of Faculty and Student objects which can be read/written from a CSV file and created/removed using the terminal application. 
+
+Can be tested by either creating a new file or loading in from provided *text.txt* example file
 
 Worked with Mary Shkouratoff from Chapman Univ. for portion of project. Specifically she contributed to read/write of files feature.
 
